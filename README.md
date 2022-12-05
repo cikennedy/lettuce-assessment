@@ -1,6 +1,6 @@
 # Lettuce Entertain You Quiz Assessment
 
-![Quiz Demo](https://imgur.com/bUx4Qa3.gif)
+![Quiz Demo](https://i.imgur.com/bUx4Qa3.gif)
 
 ## Description
 
