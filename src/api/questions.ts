@@ -57,19 +57,19 @@ export const getQuestions = (): QuestionType[] => {
       answers: [
         {
           points: 1,
-          content: "Coffee",
+          content: "coffee",
         },
         {
           points: 4,
-          content: "Phone",
+          content: "phone",
         },
         {
           points: 2,
-          content: "Glasses",
+          content: "glasses",
         },
         {
           points: 3,
-          content: "TV Remote",
+          content: "TV remote",
         },
       ],
     },
@@ -78,19 +78,19 @@ export const getQuestions = (): QuestionType[] => {
       answers: [
         {
           points: 1,
-          content: "Eagle",
+          content: "eagle",
         },
         {
           points: 3,
-          content: "Dog",
+          content: "dog",
         },
         {
           points: 4,
-          content: "Deer",
+          content: "deer",
         },
         {
           points: 2,
-          content: "Monkey",
+          content: "monkey",
         },
       ],
     },
@@ -99,19 +99,19 @@ export const getQuestions = (): QuestionType[] => {
       answers: [
         {
           points: 3,
-          content: "Invisibility",
+          content: "invisibility",
         },
         {
           points: 4,
-          content: "Mind Reading",
+          content: "mind reading",
         },
         {
           points: 1,
-          content: "Telekinesis",
+          content: "telekinesis",
         },
         {
           points: 2,
-          content: "Flight",
+          content: "flight",
         },
       ],
     },
@@ -121,19 +121,19 @@ export const getQuestions = (): QuestionType[] => {
       answers: [
         {
           points: 4,
-          content: "Romance",
+          content: "romance",
         },
         {
           points: 2,
-          content: "Thriller",
+          content: "thriller",
         },
         {
           points: 3,
-          content: "Comedy",
+          content: "comedy",
         },
         {
           points: 1,
-          content: "Adventure",
+          content: "adventure",
         },
       ],
     },
