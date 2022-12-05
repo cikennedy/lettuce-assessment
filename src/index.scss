@@ -5,3 +5,37 @@ body {
     margin: 0;
     font-weight: 300;
 }
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 600;
+    letter-spacing: .5rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.button {
+    cursor: pointer;
+    letter-spacing: 3px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 30px;
+    background-color: #9db2be;
+    color: #262624;
+    border: 1px solid #9db2be;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    margin: 0 auto;
+    text-transform: uppercase;
+}

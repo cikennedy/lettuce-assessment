@@ -1,0 +1,16 @@
+.quiz {
+    padding: 3rem 2rem;
+    margin: 0 auto;
+    max-width: 550px;
+    text-align: center;
+
+    &-header {
+        padding: 2rem;
+
+        p {
+            max-width: 300px;
+            margin: 0 auto;
+            line-height: 1.3;
+        }
+    }
+}

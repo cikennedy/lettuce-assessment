@@ -20,7 +20,7 @@ const Result = (props: Props) => {
   return (
     <div className="recommendation">
       <h2>Your restaurant is...</h2>
-      <h2>{recommendation}</h2>
+      <h2 className="restaurant">{recommendation}</h2>
     </div>
   );
 };
